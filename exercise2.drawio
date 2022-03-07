@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="NuMuyJ0UBDDyV1lLQY9N" name="Step 1 - Define the purpose of the DB">
-        <mxGraphModel dx="1163" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="972" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -23,7 +23,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="O3U2NHLkLz26aXM3maAr" name="Step 2 - The ERM">
-        <mxGraphModel dx="1163" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="972" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="SugYGAc_b5lUKjztGZmf-0"/>
                 <mxCell id="SugYGAc_b5lUKjztGZmf-1" parent="SugYGAc_b5lUKjztGZmf-0"/>
@@ -86,7 +86,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="lYJBItrS1kzm_RbvxHhG" name="Step 3 - UML">
-        <mxGraphModel dx="1163" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="972" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="tmoW70O3WnlVBGm4fVCz-0"/>
                 <mxCell id="tmoW70O3WnlVBGm4fVCz-1" parent="tmoW70O3WnlVBGm4fVCz-0"/>
@@ -392,7 +392,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="h3dlu8bpGFOVv6ghujL7" name="Step 4 - Norm.">
-        <mxGraphModel dx="1163" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="972" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="qjB7M2fl9DO1ppy_1SeX-0"/>
                 <mxCell id="qjB7M2fl9DO1ppy_1SeX-1" parent="qjB7M2fl9DO1ppy_1SeX-0"/>

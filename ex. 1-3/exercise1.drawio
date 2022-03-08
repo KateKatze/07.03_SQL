@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="dN-JMe10Lv6DrVuhfne7" name="Step 1 - Define the purpose of the DB">
-        <mxGraphModel dx="1114" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1040" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -29,7 +29,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="K7CPMNRlifHQC8CAAzPp" name="Step 2 - The ERM">
-        <mxGraphModel dx="1615" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1040" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="cYiUQkpwhXSrUYd20Ewe-0"/>
                 <mxCell id="cYiUQkpwhXSrUYd20Ewe-1" parent="cYiUQkpwhXSrUYd20Ewe-0"/>
@@ -225,17 +225,17 @@
                 <mxCell id="Dw7hJlt54WYgAIfNquUb-0" value="Borrow period" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="cYiUQkpwhXSrUYd20Ewe-1" vertex="1">
                     <mxGeometry x="40" y="600" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="jt03vTdktmuY13mdGJFs-1" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="cYiUQkpwhXSrUYd20Ewe-1" source="jt03vTdktmuY13mdGJFs-0" target="dIzMhW4nH7jWB1z9T61W-5">
+                <mxCell id="jt03vTdktmuY13mdGJFs-1" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="cYiUQkpwhXSrUYd20Ewe-1" source="jt03vTdktmuY13mdGJFs-0" target="dIzMhW4nH7jWB1z9T61W-5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="jt03vTdktmuY13mdGJFs-0" value="Name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="cYiUQkpwhXSrUYd20Ewe-1">
+                <mxCell id="jt03vTdktmuY13mdGJFs-0" value="Name" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="cYiUQkpwhXSrUYd20Ewe-1" vertex="1">
                     <mxGeometry x="510" y="-30" width="100" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="3aQwsoEZcqAc43GRUfIh" name="Step 3 - UML">
-        <mxGraphModel dx="2442" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1198" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="J5yJ5cRhwVp5PXt5GpfA-0"/>
                 <mxCell id="J5yJ5cRhwVp5PXt5GpfA-1" parent="J5yJ5cRhwVp5PXt5GpfA-0"/>
@@ -529,7 +529,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="tczZRLV42dAja_REWewz" name="Step 4 - Norm.">
-        <mxGraphModel dx="2442" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1198" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="Jqr77EWIEIOgF8IM-Td--0"/>
                 <mxCell id="Jqr77EWIEIOgF8IM-Td--1" parent="Jqr77EWIEIOgF8IM-Td--0"/>
@@ -683,7 +683,7 @@
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="rajXfaUHEzDRaDxZsU94-34" value="Read: boolean" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="rajXfaUHEzDRaDxZsU94-32" vertex="1">
+                <mxCell id="rajXfaUHEzDRaDxZsU94-34" value="Read_status: boolean" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="rajXfaUHEzDRaDxZsU94-32" vertex="1">
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>

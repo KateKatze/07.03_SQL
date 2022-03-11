@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram id="DmGHpAsBDYJvMNP54F3N" name="Page-1">
+        <mxGraphModel dx="1067" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="340" width="120" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="user´s profile" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="320" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="comments" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="220" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="photo" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="220" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="7X04SR2r__MUyQ_ihOL9" name="Page-2">
+        <mxGraphModel dx="1067" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="6Rju6ZOlYKpNsf5ilPlQ-0"/>
+                <mxCell id="6Rju6ZOlYKpNsf5ilPlQ-1" parent="6Rju6ZOlYKpNsf5ilPlQ-0"/>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-0" value="user´s profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="350" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-1" value="photo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="350" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-2" value="comments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="354" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-3" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="140" y="120" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-4" value="lName" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="474" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-5" value="nickname" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="354" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-6" value="fName" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="520" y="80" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-7" value="email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="140" y="40" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-8" value="date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="540" y="515" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-9" value="text" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="180" y="515" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-10" value="filename" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="160" y="300" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-11" value="description" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="530" y="300" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="iubIlLdmzVvcZpCZdbnn-12" value="coordinants" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6Rju6ZOlYKpNsf5ilPlQ-1">
+                    <mxGeometry x="234" y="390" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="MZDId3ZpxSz9jXmpCAGx" name="Page-3">
+        <mxGraphModel dx="1067" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="aUCkkfDZI8IWUHptfWHz-0"/>
+                <mxCell id="aUCkkfDZI8IWUHptfWHz-1" parent="aUCkkfDZI8IWUHptfWHz-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="QP0QHTjdnbvKNpvqMepo" name="Page-4">
+        <mxGraphModel dx="1067" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="GHFEcCkC3jSOjM2N5uyH-0"/>
+                <mxCell id="GHFEcCkC3jSOjM2N5uyH-1" parent="GHFEcCkC3jSOjM2N5uyH-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
